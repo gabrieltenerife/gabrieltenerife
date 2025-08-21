@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Gonzalez Herrera
 - 👀 I’m interested in Java && SQL apps developing
-- 🌱 I’m currently learning Java, SQL, JavaScript.
+- 🌱 Java, SQL, JavaScript.
 - 💞️ I’m looking to collaborate on some interesting proyect as Junior Java developer.
 - 📫 How to reach me @gabrieltenerife123@gmail.com
 - ⚡ Fun fact: funny guy :P
